@@ -1,0 +1,6 @@
+C:\Users\Utilisateur\source\repos\TP1_Héritage\bin\Debug\TP1_Héritage.exe.config
+C:\Users\Utilisateur\source\repos\TP1_Héritage\bin\Debug\TP1_Héritage.exe
+C:\Users\Utilisateur\source\repos\TP1_Héritage\bin\Debug\TP1_Héritage.pdb
+C:\Users\Utilisateur\source\repos\TP1_Héritage\obj\Debug\TP1_Héritage.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\TP1_Héritage\obj\Debug\TP1_Héritage.exe
+C:\Users\Utilisateur\source\repos\TP1_Héritage\obj\Debug\TP1_Héritage.pdb
